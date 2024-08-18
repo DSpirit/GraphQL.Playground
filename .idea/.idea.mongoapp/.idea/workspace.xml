@@ -10,7 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4536037b-aa1c-4e2d-a3d4-13b3983426cf" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.mongoapp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.mongoapp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Playground/cinema.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Playground/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Playground/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +164,7 @@
       <updated>1722783755783</updated>
       <workItem from="1722783757120" duration="3142000" />
       <workItem from="1723906492332" duration="74000" />
-      <workItem from="1723906616520" duration="33757000" />
+      <workItem from="1723906616520" duration="34076000" />
     </task>
     <servers />
   </component>

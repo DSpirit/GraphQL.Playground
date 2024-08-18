@@ -34,8 +34,8 @@ builder.Services.AddDbContext<CinemaDbContext>(
 
 var app = builder.Build();
 
-// using var db = new CinemaDbContext();
-// db.Database.EnsureCreated();
+using var db = new CinemaDbContext();
+db.Database.EnsureCreated();
 
 app.UseGraphQL();
 app.UseGraphQLVoyager();
